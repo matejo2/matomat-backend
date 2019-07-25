@@ -1,5 +1,7 @@
-package com.wilfer.matomatdemo;
+package com.wilfer.matomatdemo.boundary;
 
+import com.wilfer.matomatdemo.UserRepository;
+import com.wilfer.matomatdemo.entity.User;
 import org.springframework.hateoas.Resource;
 import org.springframework.web.bind.annotation.*;
 

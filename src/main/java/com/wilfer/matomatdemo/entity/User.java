@@ -1,4 +1,4 @@
-package com.wilfer.matomatdemo;
+package com.wilfer.matomatdemo.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
